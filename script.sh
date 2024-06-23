@@ -5,3 +5,4 @@ read -p "Enter Number two " t
 echo Addition = $(( $o + $t ))
 echo Subtraction = $(( $o - $t ))
 echo Multiply = $(( $o * $t ))
+echo Division = $(( $o / $t ))
