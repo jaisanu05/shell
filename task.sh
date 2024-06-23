@@ -28,7 +28,6 @@ then
 	echo 10% Tax = $(($s - $s*$b))
 fi
 
-
 read -p "Enter Your Age " d
 
 if [ $d -lt 13 ]
